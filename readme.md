@@ -1,0 +1,4 @@
+I want to load the table.html file, which contains a table with bootstrap classes, on the index page. The problem is that it does not get style after loading the table. What is the reason? If I import bootstrap libraries in the table.html file, my problem will be solved, but this solution is not suitable because for each bootstrap library call is loaded, I want to import the desired libraries only once in the index page, and each time my tables load in it.
+
+من در برنامه ام میخواهم فایل table.html که حاوی یک جدول با کلاس های بوت استراپ هست  را در صفحه index  load  کنم ، مشکل این است  که بعد از بارگزاری جدول استایل نمی گیرد علت چیست؟
+اگر در فایل table.html  کتابخانه های bootstrap  را import  کنم مشکلم حل میشود اما این راه حل مناسب نیست چرا که به ازای هر فراخوانی کتابخانه bootstrap  بارگزاری می شود ، من میخواهم فقط یکبار در صفحه  index  کتابخانه های مورد نظر را import  کنم و هربار جداولم را در آن بارگزاری کنم . 
